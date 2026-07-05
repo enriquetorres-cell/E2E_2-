@@ -1,5 +1,10 @@
 # E2E Rides — Frontend
 
+## Integrantes
+Arana Chiong, Jean Piere Milan
+Saavedra Clavijo, Itta Zhair
+Torres Chafloque, Enrique Eusebio
+
 Frontend en **React + TypeScript + Vite** para la app de viajes (estilo Uber) del backend Spring Boot `cs2031-2026-1-week14-e2e`.
 
 ## Requisitos
